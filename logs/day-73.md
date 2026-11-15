@@ -1,16 +1,15 @@
-# Day 73: Nov 15, 2026 — Leap Year Calculation & Conditional Algorithm Engineering
+# Day 73: Nov 15, 2026 — String Truncation Algorithm Engineering
 
 ## Executive Summary
-Advanced through the Functions module, completing the **Build a Leap Year Calculator** lab. Engineered compound modulo evaluation logic to determine Gregorian calendar leap year eligibility and format descriptive string outputs[cite: 18, 19].
+Advanced through the Functions module, completing the **Implement the Truncate String Algorithm** lab. Engineered conditional string slicing and concatenation routines to enforce maximum length thresholds with proper suffix appending[cite: 18, 19].
 
 ## Technical Milestones & Module Breakdown
-1. **Build a Leap Year Calculator (Lab)**
-   - Architected the `isLeapYear` utility function leveraging modulo arithmetic (`%`) and nested conditional branching (`if...else`) to evaluate whether a given year is divisible by 4, 100, and 400.
-   - Declared test harness variables (`year`, `result`) and validated output strings against historical test cases (`2024` and `2000` as leap years; `1900` and `1901` as non-leap years)[cite: 18].
+1. **Implement the Truncate String Algorithm (Lab)**
+   - Architected the `truncateString(str, num)` utility function to evaluate string length constraints against specified numeric boundaries[cite: 18].
+   - Integrated `String.prototype.slice(0, num)` coupled with template literal/concatenation mechanisms (`"..."`) when input length exceeds the maximum threshold, while ensuring unmodified returns for strings within limits[cite: 18].
 
 ## Key Technical Takeaways
-- **Modulo Operator Logic (`%`)**: Evaluating exact divisibility rules to handle compound mathematical conditions in calendar logic.
-- **Branch Optimization**: Structuring conditional pathways to correctly resolve overlapping Gregorian rules (e.g., century years divisible by 400 versus 100).
+- **Conditional String Manipulation**: Managing boundary checks to conditionally truncate character arrays and append ellipsis markers without mutating original primitives.
 
 ---
-*Target for subsequent session: Implement the Truncate String Algorithm Lab*
+*Target for subsequent session: Build a Confirm the Ending Tool Lab*
