@@ -1,14 +1,16 @@
-# Day 73: Nov 15, 2026 — Algorithmic State Tracking & Card Counting Architecture
+# Day 73: Nov 15, 2026 — Leap Year Calculation & Conditional Algorithm Engineering
 
 ## Executive Summary
-Advanced through the Functions module, completing the **Build a Card Counting Assistant** lab to engineer stateful evaluation mechanisms within functional boundaries. Total curriculum progress reached **33 of 38 steps complete** under Functions[cite: 18].
+Advanced through the Functions module, completing the **Build a Leap Year Calculator** lab. Engineered compound modulo evaluation logic to determine Gregorian calendar leap year eligibility and format descriptive string outputs[cite: 18, 19].
 
 ## Technical Milestones & Module Breakdown
-1. **Build a Card Counting Assistant (Lab)**
-   - Architected a stateful card-counting utility function that evaluates incoming card values (incrementing, decrementing, or holding count values) and returns formatted string directives (`Hold` or `Bet`) based on cumulative thresholds[cite: 18].
+1. **Build a Leap Year Calculator (Lab)**
+   - Architected the `isLeapYear` utility function leveraging modulo arithmetic (`%`) and nested conditional branching (`if...else`) to evaluate whether a given year is divisible by 4, 100, and 400.
+   - Declared test harness variables (`year`, `result`) and validated output strings against historical test cases (`2024` and `2000` as leap years; `1900` and `1901` as non-leap years)[cite: 18].
 
 ## Key Technical Takeaways
-- **State Persistence & Encapsulation**: Managing running counts across function calls while maintaining clean scoping principles and conditional threshold evaluation.
+- **Modulo Operator Logic (`%`)**: Evaluating exact divisibility rules to handle compound mathematical conditions in calendar logic.
+- **Branch Optimization**: Structuring conditional pathways to correctly resolve overlapping Gregorian rules (e.g., century years divisible by 400 versus 100).
 
 ---
-*Target for subsequent session: Build a Leap Year Calculator Lab[cite: 18]*
+*Target for subsequent session: Implement the Truncate String Algorithm Lab*
