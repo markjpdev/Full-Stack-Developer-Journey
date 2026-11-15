@@ -79,3 +79,4 @@
 | **Day 70** | Nov 12, 2026 | Unary & Bitwise Operators Theory | Completed unary operators and bitwise operators theory | [Read Log](./logs/day-70.md) |
 | **Day 71** | Nov 13, 2026 | Comparisons, Conditionals & Functions Intro | Completed Comparisons/Conditionals Theory, Review, Quiz, and Functions/Scope Theory | [Read Log](./logs/day-71.md) |
 | **Day 72** | Nov 14, 2026 | Loan Qualification & Temperature Converter | Completed Loan Qualification Workshop and Celsius to Fahrenheit Converter Lab (32/38 steps in Functions)[cite: 17, 18] | [Read Log](./logs/day-72.md) |
+| **Day 73** | Nov 15, 2026 | Card Counting Assistant Lab | Completed Build a Card Counting Assistant lab (33/38 steps in Functions)[cite: 18] | [Read Log](./logs/day-73.md) |
