@@ -81,3 +81,4 @@
 | **Day 72** | Nov 14, 2026 | Loan Qualification & Temperature Converter | Completed Loan Qualification Workshop and Celsius to Fahrenheit Converter Lab (32/38 steps in Functions)[cite: 17, 18] | [Read Log](./logs/day-72.md) |
 | **Day 73** | Nov 15, 2026 | Functions Module Completion | Completed JavaScript Functions Review and Quiz, finalizing the Functions module (193/1405 steps complete)[cite: 20] | [Read Log](./logs/day-73.md) |
 | **Day 74** | Nov 16, 2026 | Shopping List Workshop Progress | Completed the Build a Shopping List workshop (26/34 steps in Arrays)[cite: 21] | [Read Log](./logs/day-74.md) |
+| **Day 75** | Nov 17, 2026 | Lunch Picker Program Lab | Completed Build a Lunch Picker Program lab (220/1405 steps complete; 27/34 in Arrays)[cite: 20] | [Read Log](./logs/day-75.md) |
