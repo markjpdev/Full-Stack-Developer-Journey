@@ -83,4 +83,4 @@
 | **Day 74** | Nov 16, 2026 | Shopping List Workshop Progress | Completed the Build a Shopping List workshop (26/34 steps in Arrays)[cite: 21] | [Read Log](./logs/day-74.md) |
 | **Day 75** | Nov 17, 2026 | Arrays Module Progress | Verified progress leading up to the Build a Golf Score Translator lab (220/1405 steps complete; 27/34 in Arrays)[cite: 21] | [Read Log](./logs/day-75.md) |
 | **Day 78** | Nov 20, 2026 | Working with Common Array Methods Theory | Completed Working with Common Array Methods theory section (32/34 steps in Arrays)[cite: 21] | [Read Log](./logs/day-78.md) |
-| **Day 78** | Nov 20, 2026 | Arrays Module Completion | Passed JavaScript Arrays Quiz, finalizing the Arrays module (34/34 steps complete)[cite: 19] | [Read Log](./logs/day-78.md) | 
+| **Day 78** | Nov 20, 2026 | Objects Module Initiation | Started Introduction to JavaScript Objects and Their Properties, covering nested object traversal[cite: 17] | [Read Log](./logs/day-78.md) |
