@@ -1,14 +1,15 @@
-# Day 79: Nov 21, 2026 — Wildlife Tracker Workshop & Object State Modeling
+# Day 79: Nov 21, 2026 — Cargo Manifest Validator Debugging & Immutability
 
 ## Executive Summary
-Advanced through the **Objects** curriculum module by completing the **Build a Wildlife Tracker** workshop (steps 1 through 12). Total cumulative curriculum progress reached **246 of 1405 steps complete** (19 of 61 steps in Objects)[cite: 18].
+Investigated the **Build a Cargo Manifest Validator** lab within the **Objects** module, working through immutable object copying and multi-field validation rules before pausing to step away for a break.
 
 ## Technical Milestones & Module Breakdown
-1. **Build a Wildlife Tracker (Workshop Progression)**
-   - Modeled structured object records and collection entries across 12 guided interactive steps to track wildlife observation data and entity properties[cite: 18].
+1. **Build a Cargo Manifest Validator (Lab in Progress)**
+   - Implemented `normalizeUnits(manifest)` to return a non-mutating normalized object copy, converting `"lb"` weights (`* 0.45`) to `"kg"` while preserving `"kg"` inputs[cite: 17].
+   - Built initial missing-property (`undefined` -> `"Missing"`) guards in `validateManifest(manifest)` and scoped positive-integer checks (`Number.isInteger()`) for `containerId` alongside string/numeric validation cases (`destination`, `weight`, `unit`, `hazmat`)[cite: 17].
 
 ## Key Technical Takeaways
-- **Domain Object Modeling**: Structuring object properties and nested records cleanly supports maintainable state updates across interactive data-tracking workflows[cite: 18].
+- **Non-Mutating Validation Contracts**: Returning fresh error/normalized objects without mutating the input `manifest` preserves caller state across validation pipelines[cite: 17].
 
 ---
-*Target for subsequent session: Build a Cargo Manifest Validator Lab[cite: 18]*
+*Target for subsequent session: Resume Build a Cargo Manifest Validator Lab[cite: 17]*
