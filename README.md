@@ -85,3 +85,4 @@
 | **Day 78** | Nov 20, 2026 | Working with Common Array Methods Theory | Completed Working with Common Array Methods theory section (32/34 steps in Arrays)[cite: 21] | [Read Log](./logs/day-78.md) |
 | **Day 78** | Nov 20, 2026 | Objects Module Initiation | Started Introduction to JavaScript Objects and Their Properties, covering nested object traversal[cite: 17] | [Read Log](./logs/day-78.md) |
 | **Day 79** | Nov 21, 2026 | Cargo Manifest Validator Lab (In Progress) | Worked through immutable normalization and validation logic in Build a Cargo Manifest Validator before pausing[cite: 17] | [Read Log](./logs/day-79.md) |
+| **Day 81** | Nov 23, 2026 | Cargo Manifest Validator Lab | Completed Build a Cargo Manifest Validator lab (247/1405 steps complete; 20/61 in Objects)[cite: 16] | [Read Log](./logs/day-81.md) |
