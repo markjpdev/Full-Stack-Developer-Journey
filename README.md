@@ -86,4 +86,4 @@
 | **Day 78** | Nov 20, 2026 | Objects Module Initiation | Started Introduction to JavaScript Objects and Their Properties, covering nested object traversal[cite: 17] | [Read Log](./logs/day-78.md) |
 | **Day 79** | Nov 21, 2026 | Cargo Manifest Validator Lab (In Progress) | Worked through immutable normalization and validation logic in Build a Cargo Manifest Validator before pausing[cite: 17] | [Read Log](./logs/day-79.md) |
 | **Day 81** | Nov 23, 2026 | Cargo Manifest Validator Lab | Completed Build a Cargo Manifest Validator lab (247/1405 steps complete; 20/61 in Objects)[cite: 16] | [Read Log](./logs/day-81.md) |
-| **Day 84** | Nov 26, 2026 | Working with JSON Theory | Completed Working with JSON theory covering property access, JSON.parse(), and JSON.stringify() | [Read Log](./logs/day-84.md) |
+| **Day 84** | Nov 26, 2026 | Optional Chaining & Destructuring Theory | Completed Working with Optional Chaining and Object Destructuring theory[cite: 15] | [Read Log](./logs/day-84.md) |
