@@ -1,15 +1,15 @@
-# Day 84: Nov 26, 2026 — JSON Serialization & Deserialization Mechanics
+# Day 84: Nov 26, 2026 — Optional Chaining & Object Destructuring
 
 ## Executive Summary
-Advanced through the **Objects** curriculum module by completing the **Working with JSON** theory section, covering JSON syntax rules, property access patterns, and bidirectional data serialization.
+Continued progress in the **Objects** module by completing the **Working with Optional Chaining and Object Destructuring** theory section, covering safe nested property access and concise object unpacking patterns.
 
 ## Technical Milestones & Module Breakdown
-1. **Working with JSON (Theory)**
-   - Examined JSON data structures and property traversal using bracket and dot notation on parsed object graphs.
-   - Analyzed `JSON.parse()` for deserializing JSON strings into runtime JavaScript values and `JSON.stringify()` for serializing objects into JSON payloads.
+1. **Working with Optional Chaining and Object Destructuring (Theory)**
+   - Examined optional chaining (`?.`) for safely traversing potentially `null` or `undefined` property chains without throwing runtime reference errors.
+   - Studied object destructuring syntax for extracting object properties into distinct local variables cleanly.
 
 ## Key Technical Takeaways
-- **Data Interchange Boundaries**: Converting between structured in-memory objects and serialized JSON strings enables reliable payload transport while requiring awareness of supported types and formatting constraints.
+- **Defensive Property Extraction**: Combining optional chaining guards with object destructuring reduces boilerplate null checks while keeping data access expressive and resilient.
 
 ---
-*Target for subsequent session: Working with Optional Chaining and Object Destructuring Theory*
+*Target for subsequent session: Build a Recipe Tracker Workshop*
