@@ -88,3 +88,4 @@
 | **Day 81** | Nov 23, 2026 | Cargo Manifest Validator Lab | Completed Build a Cargo Manifest Validator lab (247/1405 steps complete; 20/61 in Objects)[cite: 16] | [Read Log](./logs/day-81.md) |
 | **Day 84** | Nov 26, 2026 | Optional Chaining & Destructuring Theory | Completed Working with Optional Chaining and Object Destructuring theory[cite: 15] | [Read Log](./logs/day-84.md) |
 | **Day 85** | Nov 27, 2026 | Environment Setup, Portfolio Groundwork & Recipe Tracker | Updated resume, configured VS Code, started personal site rebuild, and reached Step 3 in Build a Recipe Tracker[cite: 16] | [Read Log](./logs/day-85.md) |
+| **Day 86** | Nov 28, 2026 | Recipe Tracker Workshop | Completed all 13 steps of the Build a Recipe Tracker workshop | [Read Log](./logs/day-86.md) |
